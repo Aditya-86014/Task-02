@@ -10,7 +10,7 @@ DURATION: SEPTEMBER 5th 2024 - NOVEMBER 5th 2024
 
 MENTOR: NEELA SANTOSH KUMAR
 
-OBJECTIVE : To implement the python programming and coding skills in creating a real time projects.
+OBJECTIVE : To implement the python programming and coding skills in creating a Student grade tracker.
 
 ACTIVITIES :
 
